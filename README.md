@@ -7,4 +7,4 @@ Vorlage für die NAK-Transferleistungen nach Richtlinien Stand Januar 2020
 - Zitation: übliche Zitierweise aus dem ausgewählten Fachgebiet
 
 ## LaTeX-Umgebung
-Ich verwende MikTeX und als Editor TeXstudio, beides in PC Services downloadbar.
+Ich verwende MikTeX und als Editor TeXstudio.
